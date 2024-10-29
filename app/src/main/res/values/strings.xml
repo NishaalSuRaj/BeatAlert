@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BeatAlert</string>
+    <string name="image_description">Nishaal Da</string>
+    <string name="no_login">I dont Have a account </string>
+    <string name="continue_with">Or continue with </string>
+
+    <!-- Greetings -->
+    <string name="greeting">Good Evening,</string>
+    <string name="username">Benji.</string>
+
+    <!-- Sections -->
+    <string name="music_room">Music Room</string>
+    <string name="most_top_song">Most Top Song</string>
+    <string name="recent_added_group">Recent Added Group</string>
+
+    <!-- Now Playing -->
+    <string name="now_playing">Now Playing</string>
+    <string name="song_title">One Night Carnival / 氣志團 (Cover)</string>
+    <string name="artist_name">Goose House</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_library">Library</string>
+
+    <!-- Search -->
+    <string name="search">Search</string>
+
+    <!-- Playback -->
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string-array name="song_titles">
+        <item>Baby</item>
+        <item>Closer---The-Chainsmokers-ft.-Halsey</item>
+        <item>Despacito</item>
+        <item>Harry_Styles_-_What_Makes_You_Beautiful_</item>
+        <item>Harry_Styles_As_It_Was_</item>
+        <item>Heat-Waves</item>
+        <item>Industry Baby</item>
+        <item>Intentions - Justin Bieber-</item>
+        <item>Justin Bieber - Yummy</item>
+        <item>Love Me Like You Do </item>
+        <item>Middle-Of-The-Night </item>
+        <item>Never Say Never - Justin Bieber-</item>
+        <item>Night Changes</item>
+        <item>On My Way_64</item>
+        <item>One Kiss</item>
+        <item>One_Direction_-_Steal_My_Girl</item>
+        <item>Ruth-B-Dandelions</item>
+        <item>See You Again </item>
+        <item>Senorita </item>
+        <item>Sia - Cheap Thrills (Lyrics) ft. Sean Paul </item>
+        <item>Stereo Hearts</item>
+        <item>The Nights</item>
+        <item>zayn-malik_one-direction-one-thing </item>
+    </string-array>
+
+    <array name="song_resources">
+        <item>@raw/song1</item>
+        <item>@raw/song2</item>
+        <item>@raw/song3</item>
+        <item>@raw/song4</item>
+        <item>@raw/song5</item>
+        <item>@raw/song6</item>
+        <item>@raw/song7</item>
+        <item>@raw/song8</item>
+        <item>@raw/song9</item>
+        <item>@raw/song10</item>
+        <item>@raw/song11</item>
+        <item>@raw/song12</item>
+        <item>@raw/song13</item>
+        <item>@raw/song14</item>
+        <item>@raw/song15</item>
+        <item>@raw/song16</item>
+        <item>@raw/song17</item>
+        <item>@raw/song18</item>
+        <item>@raw/song19</item>
+        <item>@raw/song20</item>
+        <item>@raw/song21</item>
+        <item>@raw/song22</item>
+        <item>@raw/song23</item>
+    </array>
+</resources>
